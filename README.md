@@ -6,9 +6,21 @@ In this video, we’ll walk through an end-to-end machine learning project, from
 
 ## Project's Sections
 
-- ..........
-- ............
-
+- introduction & workflow of project
+- Demo of the project
+- Explain the project structure
+- See dataset
+- Data cleaning steps
+- Descriptive Data Analysis
+- Correlation Analysis
+- Data preprocessing
+- Data Splitting
+- Model Training
+- Model Tunning
+- Model Evaluation
+- Model Testing
+- Build Application
+- Model Deployment
 
 ## Languages / Tools
 
