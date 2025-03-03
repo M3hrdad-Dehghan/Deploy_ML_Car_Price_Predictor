@@ -24,9 +24,11 @@ In this video, we’ll walk through an end-to-end machine learning project, from
 
 ## Languages / Tools
 
-- ................
-- ..............
-- ...........
+- Python
+- JavaScript
+- HTML
+- VS Code
+- Flask
 
 ## Clone to Repository
 
