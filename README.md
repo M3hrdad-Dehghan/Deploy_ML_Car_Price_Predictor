@@ -33,15 +33,15 @@ In this video, we’ll walk through an end-to-end machine learning project, from
 ## Clone to Repository
 
 ```HTTP
-git clone .........................
+git clone https://github.com/M3hrdad-Dehghan/Deploy_ML_Car_Price_Predictor.git
 ```
 
 ```SSH
-.........................
+git@github.com:M3hrdad-Dehghan/Deploy_ML_Car_Price_Predictor.git
 ```
 
 ```CLI
-.................................
+gh repo clone M3hrdad-Dehghan/Deploy_ML_Car_Price_Predictor
 ```
 
 ## Contact
