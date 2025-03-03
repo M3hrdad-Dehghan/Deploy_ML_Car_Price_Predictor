@@ -1,8 +1,8 @@
 ## About the Project
 
-.................
+In this video, we’ll walk through an end-to-end machine learning project, from business understanding to deployment! We’ll build a secondhand car price predictor using Python, Flask, and machine learning models. You’ll see how to preprocess data, train models, and turn them into a functional web application. 
 
-[![Watch Video of the Project](https://img.shields.io/badge/YouTube-Watch_Video-red)](....................)
+[![Watch Video of the Project](https://img.shields.io/badge/YouTube-Watch_Video-red)](https://www.youtube.com/watch?v=RlbUyfibVYk)
 
 ## Project's Sections
 
